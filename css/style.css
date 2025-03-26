@@ -124,3 +124,21 @@ img{
 }
 
 
+footer{
+    background-color: black;
+    color: white;
+}
+
+.footer-nav-flex{
+    display: flex;
+    flex-direction: column;
+
+}
+
+footer ul{
+    list-style-type: none;
+}
+
+footer .footer-flex{
+    display: flex;
+}
